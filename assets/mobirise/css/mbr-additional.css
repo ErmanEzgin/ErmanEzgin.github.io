@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Muli:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
@@ -20,11 +21,11 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
-  font-size: 4.25rem;
+  font-family: 'Muli', sans-serif;
+  font-size: 4.8rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.8rem;
+  font-size: 7.68rem;
 }
 .display-2 {
   font-family: 'Rubik', sans-serif;
@@ -42,10 +43,10 @@ body {
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 2.24rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
@@ -61,9 +62,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.4rem;
-    font-size: calc( 2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.84rem;
+    font-size: calc( 2.33rem + (4.8 - 2.33) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.33rem + (4.8 - 2.33) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -76,9 +77,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.12rem;
+    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1754,7 +1755,14 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qNUDNcY6oR {
-  background-image: url("../../../assets/images/yoga-sonnenuntergang-2000x1242.jpg");
+  background-image: url("../../../assets/images/yoga-1-2000x1333.jpg");
+}
+.cid-qNUDNcY6oR H1 {
+  color: #f8f8f8;
+}
+.cid-qNUDNcY6oR .mbr-text,
+.cid-qNUDNcY6oR .mbr-section-btn {
+  color: #f7ed4a;
 }
 .cid-qNUDNeaFwp {
   padding-top: 60px;
@@ -1883,4 +1891,11 @@ body {
 }
 .cid-qOgksiFcZH {
   background-image: url("../../../assets/images/yoga-sonnenuntergang-2000x1242.jpg");
+}
+.cid-qOgksiFcZH H1 {
+  color: #dd05e7;
+}
+.cid-qOgksiFcZH .mbr-text,
+.cid-qOgksiFcZH .mbr-section-btn {
+  color: #0808f1;
 }
