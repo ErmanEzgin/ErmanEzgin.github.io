@@ -1871,9 +1871,16 @@ body {
   }
 }
 .cid-qNUE6JKE0b {
-  background-color: #0808f1;
+  background-image: url("../../../assets/images/yoga-1-2000x1333.jpg");
 }
 .cid-qNUE6JKE0b H1 {
   text-align: center;
   color: #ffffff;
+}
+.cid-qNUE6JKE0b SPAN {
+  color: #0808f1;
+}
+.cid-qNUE6JKE0b .mbr-text,
+.cid-qNUE6JKE0b .mbr-section-btn {
+  color: #0808f1;
 }
