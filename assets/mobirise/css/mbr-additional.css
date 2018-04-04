@@ -1870,17 +1870,14 @@ body {
     width: 100% !important;
   }
 }
-.cid-qNUE6JKE0b {
-  background-image: url("../../../assets/images/yoga-1-2000x1333.jpg");
+.cid-qNUE4B7GLE H1 {
+  color: #fd0000;
 }
-.cid-qNUE6JKE0b H1 {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-qNUE6JKE0b SPAN {
+.cid-qNUE4B7GLE .mbr-text,
+.cid-qNUE4B7GLE .mbr-section-btn {
   color: #0808f1;
 }
-.cid-qNUE6JKE0b .mbr-text,
-.cid-qNUE6JKE0b .mbr-section-btn {
-  color: #0808f1;
+.cid-qNUE4B7GLE .mbr-text,
+.cid-qNUE4B7GLE .mbr-section-btn B {
+  color: #f7ed4a;
 }
